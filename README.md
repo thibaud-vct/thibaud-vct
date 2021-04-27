@@ -1,4 +1,4 @@
-# Hello, nerds
+# Hello, nerds 👋
 
 I'm Thibaud, fullstack developer in Paris 🇫🇷.
 

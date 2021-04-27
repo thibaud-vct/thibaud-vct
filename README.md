@@ -32,7 +32,7 @@ I am open to all reflections 🤔 or partnerships 🤝, see opportunity 🚀 : [
         }
       }
       
-      const software = [VSCode, Compass, Postman, ]
+      const software = [VSCode, Compass, Postman]
       const host = [GitHub, Heroku, Netlify, MongodbAtlas]
       
       const internet = useInternet()

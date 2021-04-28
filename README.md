@@ -1,14 +1,14 @@
 # Hello, nerds 👋
 
-I'm Thibaud, fullstack developer in Paris 🇫🇷.
+I'm Thibaud, fullstack developer in Paris 🥐.
 
 I spend hours learning things online, I love it. I listen to a lot of music 🔊 or podcacts 🎙. Traveling and discovering the planet amazes me. I am in love with the great American spaces 🏜.
 
 I have always been immersed in IT, from my studies in electronics 🦾 to my passion for electronic music 🎛 to web development 👨🏼‍💻. 
 Since the beginning of 2021, I have enriched my skills by following the [Le Reacteur](https://www.lereacteur.io) 🚀 bootcamp in order to professionalize my knowledge. 
-Passion also for entrepreneurship🕴, fond of the emotion ✨ caused by the search for ideas and innovation, I co-founded an interior design consulting studio to sublimate places with culture and creativity.
+Passion also for entrepreneurship, fond of the emotion caused by the search for ideas and innovation, I co-founded an interior design consulting studio to sublimate places with culture and creativity.
 
-I am open to all reflections 🤔 or partnerships 🤝, see opportunity 🚀 : [Mail me Here](thibaudfaurevincent@gmail.com)📝
+I am open to all reflections 🤔 or partnerships 🤝, see opportunity 🚀 : [Mail me Here](thibaudfaurevincent@gmail.com)
 
 
 ## my knowledge in code :

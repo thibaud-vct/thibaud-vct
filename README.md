@@ -2,7 +2,7 @@
 
 I'm Thibaud, fullstack developer in Paris 🥐.
 
-Passion also for entrepreneurship, fond of the emotion caused by the search for ideas and innovation, I co-founded an interior design consulting studio to sublimate places with culture and creativity.
+Passion for entrepreneurship, fond of the emotion caused by the search for ideas and innovation, I co-founded an interior design consulting studio to sublimate places with culture and creativity.
 
 I am open to all reflections 🤔 or partnerships 🤝, see opportunity 🚀 : [Mail me Here](thibaudfaurevincent@gmail.com)
 

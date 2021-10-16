@@ -1,5 +1,5 @@
 # Hello, nerds 👋
 
-I'm Thibaud, fullstack developer in Paris 🥐.
+I code daily with React and Nextjs as much as possible. I like to stay curious and discuss anything and everything, even more when it comes to tech (techno).
 
-I am open to all reflections 🤔 or partnerships 🤝, see opportunity 🚀 : [Mail me Here](thibaudfaurevincent@gmail.com)
+I am active on [Instagram](https://www.instagram.com/larkcrail/) where I strive to provide great content.
